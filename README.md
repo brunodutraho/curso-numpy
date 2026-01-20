@@ -5,7 +5,7 @@ Repositório com notebooks de exercícios e exemplos do curso de Numpy, organiza
 ---
 
 ## Estrutura do repositório
-
+```
 Curso-Numpy/
 │
 ├─ README.md # Este arquivo
@@ -25,7 +25,7 @@ Curso-Numpy/
 ├─ 10-consolidacao.ipynb # Aula 10: Consolidando conhecimentos
 ├─ 11-mini-projeto1.ipynb # Mini Projeto 1: Caça ao Tesouro
 └─ 12-mini-projeto2.ipynb # Mini Projeto 2: Jogo da Velha
-
+````
 
 > Observação: os notebooks serão criados conforme o avanço do curso. Até o momento, você já fez a **Aula 1: Fundamentos do Numpy** (`1-fundamentos.ipynb`).
 
