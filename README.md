@@ -2,34 +2,6 @@
 
 Repositório com notebooks de exercícios e exemplos do curso de Numpy, organizado aula por aula para estudo e prática em Python.
 
----
-
-## Estrutura do repositório
-```
-Curso-Numpy/
-│
-├─ README.md # Este arquivo
-├─ .gitignore # Arquivos ignorados
-├─ requirements.txt # Bibliotecas necessárias (numpy, jupyter)
-├─ .venv/ # Ambiente virtual (não subir no GitHub)
-└─ notebooks/ # Notebooks do curso
-├─ 1-fundamentos.ipynb # Aula 1: Fundamentos do Numpy
-├─ 2-criando-arrays.ipynb # Aula 2: Criando arrays e dimensões
-├─ 3-indexacao.ipynb # Aula 3: Indexação e fatiamento
-├─ 4-funcoes-universais.ipynb # Aula 4: Funções universais
-├─ 5-copy-e-view.ipynb # Aula 5: Copy e view
-├─ 6-reshape.ipynb # Aula 6: Reshape
-├─ 7-iterando-arrays.ipynb # Aula 7: Iterando arrays
-├─ 8-join-split.ipynb # Aula 8: Join e Split
-├─ 9-pesquisa.ipynb # Aula 9: Pesquisando em arrays
-├─ 10-consolidacao.ipynb # Aula 10: Consolidando conhecimentos
-├─ 11-mini-projeto1.ipynb # Mini Projeto 1: Caça ao Tesouro
-└─ 12-mini-projeto2.ipynb # Mini Projeto 2: Jogo da Velha
-````
-
-> Observação: os notebooks serão criados conforme o avanço do curso. Até o momento, você já fez a **Aula 1: Fundamentos do Numpy** (`1-fundamentos.ipynb`).
-
----
 
 ## Objetivo do curso
 
