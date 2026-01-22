@@ -1,6 +1,6 @@
 # 📘 Curso NumPy na Prática
 
-Repositório com exercícios, exemplos e mini projetos desenvolvidos durante a seção **NumPy – Hands On**, organizada aula por aula, com foco em aprendizado prático, versionamento profissional e construção de portfólio para **Análise de Dados**.
+Repositório com exercícios, exemplos e mini projetos desenvolvidos durante a seção **NumPy – Hands On do curso**, organizada aula por aula, com foco em aprendizado prático, versionamento profissional e construção de portfólio para **Análise de Dados**.
 
 ---
 
@@ -169,7 +169,7 @@ curso-numpy/
 
 ---
 
-## 🎮 Mini Projeto 1 – Caça ao Tesouro
+## 🎮 Mini Projeto 1 – Caça ao Tesouro (Terminal Game)
 
 **Arquivo:** `caca-tesouro.py`
 
@@ -183,11 +183,11 @@ Jogo interativo em terminal utilizando NumPy:
 
 ### 📽️ Demonstração
 
-![Caça ao Tesouro](caca-ao-tesouro.gif)
+![Caça ao Tesouro](gifs/caca-ao-tesouro.gif)
 
 ---
 
-## 🎮 Mini Projeto 2 – Jogo da Velha
+## 🎮 Mini Projeto 2 – Jogo da Velha (Terminal Game)
 
 **Arquivo:** `jogo-velha.py`
 
@@ -201,7 +201,7 @@ Jogo clássico implementado com NumPy:
 
 ### 📽️ Demonstração
 
-![Jogo da Velha](jogo-da-velha.gif)
+![Jogo da Velha](gifs/jogo-da-velha.gif)
 
 ---
 
@@ -239,3 +239,15 @@ Este repositório consolida minha **base sólida em NumPy**, servindo como prepa
 - Análise exploratória de dados (EDA)
 - Manipulação de **datasets reais**
 - Construção de **dashboards e geração de insights**
+
+---
+
+## 👤 Autor
+
+**Bruno Dutra**  
+Analista de Dados Jr. em transição de carreira  
+
+🔗 LinkedIn: https://www.linkedin.com/in/brunodutraho  
+💻 GitHub: https://github.com/brunodutraho  
+🌐 Portfólio: https://bruno-dutra-portfolio.vercel.app/
+
